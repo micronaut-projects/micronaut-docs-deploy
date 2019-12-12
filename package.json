@@ -1,0 +1,6 @@
+{
+  "name": "micronaut-docs-deploy",
+  "description": "GitHub action for deploying the Micronaut Docs.",
+  "license": "MIT",
+  "repository": "https://github.com/micronaut-projects/micronaut-docs-deploy"
+}
